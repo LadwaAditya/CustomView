@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Library</string>
+
+    <color name="color_arc">#FFFFFF</color>
+    <color name="color_text">#FFFFFF</color>
+    <color name="color_progress">#58D4DE</color>
+</resources>

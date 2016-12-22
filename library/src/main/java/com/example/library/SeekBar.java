@@ -1,4 +1,4 @@
-package com.example.aditya.customeseekbar;
+package com.example.library;
 
 import android.content.Context;
 import android.support.annotation.Nullable;
@@ -6,7 +6,7 @@ import android.util.AttributeSet;
 import android.view.View;
 
 /**
- * Custome SeekBar
+ *
  * Created by Aditya on 22-Dec-16.
  */
 
